@@ -31,15 +31,15 @@ Change to the rootpath / cloned directory
 TBD
 
 ## Reference
-Please cite either one of the below references if you use these scripts (or parts/concepts thereof) in your work:
+Please cite the appropriate below references, if you use these scripts (or parts/concepts thereof) in your work:
 
-_EEG+MEG in Epilepsy_
+_EEG+MEG in Epilepsy_  
 Stier, et al., Combined electrophysiological and morphological phenotypes in patients with genetic generalized epilepsy and their healthy siblings, Epilepsia 2022; 63(7):1643-57, doi:10.1111/epi.17258
 
-_MEG in Epilepsy_
+_MEG in Epilepsy_  
 Stier, et al., Heritability of Magnetoencephalography Phenotypes Among Patients With Genetic Generalized Epilepsy and Their Siblings, Neurology 2021; 97(2):e166-e77, doi:10.1212/wnl.0000000000012144
 
-_Technical Description and Reliability_
+_Technical Description and Reliability_  
 Marquetand, et al., Reliability of Magnetoencephalography and High-Density Electroencephalography Resting-State Functional Connectivity Metrics, Brain Connectivity 2019; 9(7):539-53, doi:10.1089/brain.2019.0662
 
 
